@@ -3,3 +3,4 @@
 ## Parciales
 
 - Vacaciones y Excursiones
+- Los influenciables
