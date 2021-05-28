@@ -158,9 +158,3 @@ tourInfinitasPlayas = [irALaPlaya]++tourInfinitasPlayas
 -- ¿Existe algún caso donde se pueda conocer la efectividad de este tour? Justificar.
 -- No ya que el tour de playas no modifica si viajaSolo y en caso de que viaje acompañado (que es una de las condiciones) 
 -- solo disminuye el cansancio.
-
-
-
-
-
-
