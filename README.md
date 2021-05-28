@@ -1,7 +1,5 @@
-# ejercicio-alumno
+# Practica de parciales
 
-## Integrantes
+## Parciales
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+- Vacaciones y Excursiones
